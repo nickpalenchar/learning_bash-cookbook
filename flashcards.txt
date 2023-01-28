@@ -1,0 +1,6 @@
+What is a "here" doc?
+Using `<<`, allows a bunch of text to be used in place of a "file." (3.2)
+---
+How do you prompt a user?
+read -p "the question"
+
